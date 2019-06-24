@@ -126,6 +126,7 @@ public class MySchoolProject {
           
             case 0:
                 System.out.println("Exit...");
+                System.out.println("");
                 first1=false;
                 break;
             default :
